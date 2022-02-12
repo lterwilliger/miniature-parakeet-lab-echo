@@ -13,7 +13,7 @@ body{
  .card{
   .mx-auto;
   padding: 5px;
-  background-color: lightgray;
+  background-color: aqua;
 
 }
 .footer{
@@ -21,7 +21,7 @@ body{
   left:0;
   right:0;
   width:100%;
-  background-color: lightgray;
+  background-color: lightgreen;
   color:white;
   text-align: justify;
 }
