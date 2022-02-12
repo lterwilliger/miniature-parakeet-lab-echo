@@ -17,6 +17,7 @@ body{
  .card{
   .mx-auto;
   padding: 5px;
+  background-color: lightgray;
 
 }
 #dogeHouse {
